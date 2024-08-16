@@ -1,0 +1,10 @@
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Uni Works\3rd sem ict OLD\ITC 2303 - Visual Application Programming\Lab\Calculator\Calculator\obj\Debug\Calculator.pdb
