@@ -16,11 +16,14 @@
 
 <h3>Getting Starteds</h3>
 <p>&nbsp&nbsp1. Clone the repository:
-&nbsp&nbs&nbsp&nbs
-
-
-
+&nbsp&nbs&nbsp&nbs https://github.com/DulajHansana/Simple-Calculator.git<br>
+&nbsp&nbsp2. Open the project in Visual Studio.<br>
+&nbsp&nbsp3. Build the project and run it to start using the calculator.
 </p>
+
+<h3>Prerequisites</h3>
+<p>&nbsp&nbsp* Visual Studio 2019 or later<br>
+&nbsp&nbsp* .NET Framework</p>
 
 
 
