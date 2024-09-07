@@ -15,7 +15,12 @@
 &nbsp&nbsp * App.config: Configuration file for the application settings.</P>
 
 <h3>Getting Starteds</h3>
-<p>&nbsp&nbsp1. Clone the repository:</p>
+<p>&nbsp&nbsp1. Clone the repository:
+&nbsp&nbs&nbsp&nbs
+
+
+
+</p>
 
 
 
