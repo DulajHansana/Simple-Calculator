@@ -1,4 +1,4 @@
-<h1>Calculator Application</h1>
+<center>Calculator Application</center>
 <p>This is a simple Windows Forms Calculator Application built using C# in Visual Studio. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a clean and intuitive UI, enabling users to easily input numbers and perform calculations.</p><br>
 
 <h3>Features</h3>
