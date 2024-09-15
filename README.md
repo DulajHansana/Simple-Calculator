@@ -2,7 +2,7 @@
 <p>This is a simple Windows Forms Calculator Application built using C# in Visual Studio. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a clean and intuitive UI, enabling users to easily input numbers and perform calculations.</p><br>
 
 <h3>Features</h3>
-&nbsp&nbsp* Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)<br>
+&nbsp&nbsp* Basic arithmetic operations (Addition (+), Subtraction (-), Multiplication (*), Division (/))<br>
 &nbsp&nbsp* Clear function to reset input<br>
 &nbsp&nbsp* User-friendly interface with large buttons for each number and operator<br>
 &nbsp&nbsp* Real-time result display after pressing equals (=)<br><br>
