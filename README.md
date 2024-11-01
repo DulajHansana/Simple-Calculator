@@ -7,7 +7,7 @@
 &nbsp&nbsp* User-friendly interface with large buttons for each number and operator<br>
 &nbsp&nbsp* Real-time result display after pressing equals (=)<br><br>
 
-<h3>Project Structures</h3>
+
 
 <P>&nbsp&nbsp * Program.cs: The entry point for the application where the Main method initializes and runs the calculator form.<br>
 &nbsp&nbsp * Form1.cs: The main logic behind the calculator, handling button clicks and performing calculations.<br>
